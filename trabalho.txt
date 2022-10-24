@@ -1,0 +1,22 @@
+a.header-brand (cria um href com uma class)
+nav.header-navbar
+
+criar div ( .gallery, cria uma div com a classe escolhida exemplo .documentos vai criar div com classe documentos)
+.h2 também pode ser usado.
+
+a.gallary-card-btn (vai criar uma class galarry card btn)
+
+------------------------------------
+
+Criar variaveis SASS
+
+_variables.sass
+
+_mixins.sass
+_______________________________
+
+A propriedade padding define uma a distância entre o conteúdo de um elemento e suas bordas. É um atalho que evita definir uma distância para cada lado separadamente ( padding-top , padding-right , padding-bottom , padding-left ).
+
+______________________________
+
+O :hover é uma pseudo-classe CSS que ao ser utilizada ativa estilos em um elemento. O :hover possibilita um elemento ter o seu estilo alterado através da ação do usuário, quando o próprio passa o cursor do mouse sobre o elemento.
